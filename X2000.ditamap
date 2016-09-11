@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>DITA Topic Map</title>
+ <topicref href="mobilePhone.ditamap" format="ditamap"/>
+ <keydef href="image/x2000/e1acbc95.png" keys="insert.sim" format="png"/>
+ <keydef href="tasks/x2000/insertBattery.dita" keys="insert.battery"/>
+ <keydef href="tasks/x2000/removingBattery.dita" keys="remove.battery"/>
+ <keydef keys="phone.name">
+  <topicmeta>
+   <keywords>
+    <keyword>X2000</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
+</map>

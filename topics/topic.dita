@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_els_t2c_4k">
+    <title>Frequently asked questions</title>
+    <body>
+        <p>
+            <ul id="ul_lqb_v2c_4k">
+                <li>
+                    <p><b>Q</b>: What is my lock, PIN, or PUK code?</p>
+                    <p><b>A</b>: The default lock code is
+                        <?oxy_insert_start author="alex_jitianu" timestamp="20130711T153326+0300"?>dsadas<?oxy_comment_start author="alex_jitianu" timestamp="20130711T153336+0300" comment="dsadasasd"?>dasd<?oxy_comment_end?>
+                        asdas<?oxy_comment_start author="alex_jitianu" timestamp="20130711T153332+0300" comment="dasdasd"?>
+                        dasdiasd asd<?oxy_comment_end?>io asdasiodjas<?oxy_insert_end?>2345. If you
+                        forget or lose the lock code, contact your device dealer. If you forget or
+                        lose a PIN or PUK code, or if you have not received such a code,contact your
+                        network service provider.</p>
+                </li>
+                <li>
+                    <p><b>Q</b>: How do I close an application that is not responding?</p>
+                    <p><b>A</b>: Press and hold the home key. Scroll to the application, and press
+                        the backspace key to close the application.</p>
+                </li>
+            </ul>
+        </p>
+    </body>
+</topic>
+<?oxy_options track_changes="on"?>

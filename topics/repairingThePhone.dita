@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_q5f_lft_kk">
+  <title>Repairing the phone</title>
+  <shortdesc>This section contains a brief explanation that helps the technician to identify and
+    troubleshoot the phone problems.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>corrosion</indexterm>
+        <indexterm>moisture</indexterm>
+        </keywords>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <p>Make sure that your phone is turned off.</p>
+    </context>
+    <steps>
+      <step conref="../tasks/removingBattery.dita#task_3ml_qm3_rf/firstStep"
+        conrefend="../tasks/removingBattery.dita#task_3ml_qm3_rf/lastStep">
+        <cmd/>
+      </step>
+      <step>
+        <cmd>Inspect the phone main-board.</cmd>
+      </step>
+      <step>
+        <cmd>Look for signs of corrosion or moisture and, if found, replace the main-board.</cmd>
+      </step>
+      <step>
+        <cmd>Insert the battery.</cmd>
+      </step>
+      <step>
+        <cmd>Put the back cover on.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

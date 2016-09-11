@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>X1000 user guide</title>
+ <keydef href="tasks/insertBattery.dita" keys="insert.battery"/>
+ <keydef href="tasks/removingBattery.dita" keys="remove.battery"/>
+ <mapref href="mobilePhone.ditamap" format="ditamap"/>
+ <keydef href="image/x1000/InsertSim.png" format="jpg" keys="insert.sim"/>
+ <topichead navtitle="Important actions">
+  <topicref href="tasks/makeACall.dita"/>
+ </topichead>
+ <keydef keys="phone.name">
+		<topicmeta>
+			<keywords>
+				<keyword>X1000</keyword>
+			</keywords>
+		</topicmeta>
+	</keydef>
+</map>

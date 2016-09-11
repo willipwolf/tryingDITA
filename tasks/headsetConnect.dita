@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_cty_4fc_4k">
+    <title>Connect to a wireless headset</title>
+    <shortdesc>With a wireless headset (available separately), you can speak on the phone hands free
+        – you can continue what you're doing, such as working at your computer, during a
+        call.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>On the start screen, swipe left, and tap <uicontrol>Settings</uicontrol> >
+                        <uicontrol>Bluetooth</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Switch <uicontrol>Status</uicontrol> to <term>On</term>.</cmd>
+            </step>
+            <step>
+                <cmd>Make sure the headset is on.</cmd>
+            </step>
+            <step>
+                <cmd>To pair your phone and the headset, tap the headset in the list.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

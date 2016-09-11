@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE subjectScheme PUBLIC "-//OASIS//DTD DITA Subject Scheme Map//EN" "subjectScheme.dtd"> 
+<subjectScheme>
+    <subjectHead>
+        <subjectHeadMeta>
+            <navtitle>
+                <!-- Enter a description of the subject scheme. -->
+            </navtitle>
+        </subjectHeadMeta>
+    </subjectHead>
+    <hasInstance>
+        <subjectdef keys="phoneTypesKey">
+            <!-- A tree of related values -->
+            <subjectdef keys="smartphone">
+                <topicmeta>
+                    <navtitle>Smartphones</navtitle>
+                </topicmeta>
+
+                <subjectdef keys="X2000">
+                    <topicmeta>
+                        <navtitle>X2000</navtitle>
+                    </topicmeta>
+                </subjectdef>
+                <subjectdef keys="X3000">
+                    <topicmeta>
+                        <navtitle>X3000</navtitle>
+                    </topicmeta>
+                </subjectdef>
+            </subjectdef>
+            <subjectdef keys="feature">
+                <topicmeta>
+                    <navtitle>Feature phones</navtitle>
+                </topicmeta>
+                
+                <subjectdef keys="X1000">
+                    <topicmeta>
+                        <navtitle>X1000</navtitle>
+                    </topicmeta>
+                </subjectdef>
+            </subjectdef>
+
+        </subjectdef>
+    </hasInstance>
+    <enumerationdef>
+        <!-- Give the possible values for product. -->
+        <attributedef name="product"/>
+        <subjectdef keyref="phoneTypesKey"/>
+    </enumerationdef>
+    <enumerationdef>
+        <!-- We don't allow the platform profiling attribute to be used. -->
+        <attributedef name="platform"/>
+        <subjectdef/>
+    </enumerationdef>
+</subjectScheme>
